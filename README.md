@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning: C#
 - 📫 How to reach me: @devkitppc on discord 💻
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm in the developer team of New Shop Channel (https://github.com/newshopchannel)
+- ⚡ Fun fact: I'm in the developer team of New Shop Channel. (https://github.com/newshopchannel)
